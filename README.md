@@ -3,7 +3,7 @@
 
 ## Basic Features of C
 
-1. [Introducing C](/notes/chapter01/notes.tex)
+1. [Introducing C](/notes/chapter01/notes.pdf)
 
 
 
