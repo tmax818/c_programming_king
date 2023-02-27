@@ -5,6 +5,8 @@
         "dkgreen",
         "keywordstyle",
         "numberstyle",
+        "Ritchie",
+        "scanf",
         "stringstyle",
         "tabsize"
     ]
