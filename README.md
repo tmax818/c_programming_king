@@ -7,6 +7,7 @@
 2. [C Fundamentals](/notes/chapter02/notes.pdf)
 3. [Formatted Input/Output](/notes/chapter03/notes.pdf)
 4. [Expressions](/notes/chapter04/notes.pdf)
+5. [Selection Statements](/notes/chapter05/notes.pdf)
 
 
 
