@@ -28,16 +28,28 @@
   tabsize=3
 }
 
+\usepackage{glossaries}
 \usepackage{hyperref}
 % load last
 \usepackage{subfiles}
+\makeglossaries
+
+\newglossaryentry{type}{
+  name = type,
+  description={you know girl}
+}
 
 \begin{document}
 \maketitle
+
+The \Gls{type} is really cool.
 
 \subfile{chapter01/notes.tex}
 \subfile{chapter02/notes.tex}
 \subfile{chapter03/notes.tex}
 \subfile{chapter04/notes.tex}
+
+\clearpage
+\printglossaries
 
 \end{document}
